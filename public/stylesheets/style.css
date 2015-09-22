@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div.menu { background:linear-gradient(to right, #ffffff, #afafaf); }
+table.menu { margin:4px 0px 4px 0px; }
+table.menu td { padding:4px 12px 4px 12px; }
+
