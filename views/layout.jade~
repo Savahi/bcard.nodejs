@@ -4,10 +4,11 @@ html
     title=title
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
-    table.menu
-      tr
-        td 
-          a(href='/') Home
-        td
-          a(href='/aboutus') About Us
+    div.menu
+      table.menu
+        tr
+          td 
+            a(href='/') Home
+          td
+            a(href='/aboutus') About Us
     block content
