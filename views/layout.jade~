@@ -11,4 +11,6 @@ html
             a(href='/') Home
           td
             a(href='/aboutus') About Us
+          td
+            a(href='/ourservices') Our Services
     block content
